@@ -1,0 +1,172 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Category name for the places [CHAR LIMIT=20] -->
+    <string name="category_places">Places</string>
+
+    <!-- Category name for the restaurants [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for the hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_cinemas">Cinemas</string>
+
+    <!-- names for the places -->
+    <string-array name="name_of_places">
+        <item>Kemeraltı</item>
+        <item>Clock Tower</item>
+        <item>Konak Square</item>
+        <item>Kızlarağası Han Bazaar</item>
+        <item>Konak Pier</item>
+        <item>Kordon Seafront</item>
+        <item>Ephesus</item>
+        <item>House of Virgin Mary</item>
+    </string-array>
+
+    <!-- addresses for the places -->
+    <string-array name="address_of_places">
+        <item>Konak Mh. Konak, Izmir, Turkey</item>
+        <item>Kuleli Sokak, Izmir, Turkey</item>
+        <item>Konak, Izmir, Turkey</item>
+        <item>Hisaronu Mah. Kemeralti /Konak, Konak, Izmir, Turkey</item>
+        <item>300m From The Clock Tower, Izmir, Turkey</item>
+        <item>Konak, Izmir</item>
+        <item>Selçuk, Izmir</item>
+        <item>Selçuk, Izmir</item>
+    </string-array>
+
+    <!-- descriptions for the places -->
+    <string-array name="description_of_places">
+        <item>This colorful area of the city is known for its antiques and elegant shops. Visitors will also fine many good seafood restaurants here.</item>
+        <item>This elegant monument which was built in 1901, decorates Konak Square and has become the symbol of the city of Izmir.</item>
+        <item>Main square of the city center, famous for the clock tower, one of the unique symbols of İzmir. The clock tower was built in 1901. There are also Konak Yali Mosque and Kemeraltı Bazaar located around the square.</item>
+        <item>This restored Ottoman-built bedesten (warehouse) dates from 1744 and is similar to the İç (Inner) Bedesten in İstanbul's famous Grand Bazaar. It's touristy, with most items for sale harking from from the far end of the Silk Road (China), but the building itself – which also functioned as a kervansaray (caravansarai) in its heyday – is extremely handsome.</item>
+        <item>Designed by Gustav Eiffel and built between 1875 and 1890, this pier served as a customs point until the mid-20th century. Recently converted into a shopping mall, it offers Western fast-food outlets, cinemas, restaurants and shops including the upmarket Beymen department store and Remzi Kitabevi bookshop.</item>
+        <item>It’s difficult to imagine life in İzmir without its iconic seafront kordon (promenade), which stretches north from Cumhuriyet Meydanı to Alsancak and south from Konak Pier to Konak Meydanı. A triumph of urban renewal, these two stretches are grassed, have bicycle and walking paths, and are lined on their eastern edge with bars, cafes and restaurants. Locals flock here at the end of the day to meet with friends, relax on the grass and watch the picture-perfect sunsets.</item>
+        <item>As capital of Roman Asia Minor, Ephesus was a vibrant city of over 250,000 inhabitants, the fourth largest in the empire after Rome, Alexandria and Antioch. Adding in traders, sailors and pilgrims to the Temple of Artemis, these numbers were even higher, meaning that in Ephesus one could encounter the full diversity of the Mediterranean world and its peoples. So important and wealthy was Ephesus that its Temple of Artemis, on the western edge of present-day Selçuk, was the biggest on earth, and one of the Seven Wonders of the Ancient World.</item>
+        <item>House of Virgin Mary is located on the top of the "Bulbul" mountain 9 km ahead of Ephesus, the shrine of Virgin Mary enjoys a marvelous atmosphere hidden in the green. It is the place where Mary may have spent her last days. Indeed, she may have come in the area together with Saint John, who spent several years in the area to spread Christianity. Mary preferred this remote place rather than living in crowded place.</item>
+    </string-array>
+
+    <!-- names for the food -->
+    <string-array name="name_of_food">
+        <item>Boyoz</item>
+        <item>Kokoreç</item>
+        <item>Kumru</item>
+        <item>Midye Dolma</item>
+        <item>Grilled Corn</item>
+        <item>Bomba</item>
+    </string-array>
+
+    <!-- description for the food -->
+    <string-array name="description_of_food">
+    <item>Another local pastry but much oilier than kumru, to eat with a boiled egg and a cup of tea in breakfast. It is a gift of Jews to İzmir and comes from the Sephardic cuisine. You can find different variations of boyoz, such as boyoz with artichoke, spinach, cheese, and tahini, in bakeries in Alsancak and places selling filled pastries in Mezarlıkbaşı.</item>
+    <item>Grilled sheep intestines with an almost industrial amount of spices, roasted on a skewer. A very popular snack after a night out and (too) many drinks.</item>
+    <item>A warm sandwich, made with a special bread with sesame seeds, Turkish sausage, grilled cheese and tomatoes, also a vegetarian version is available without the sausage and with the addition of green pepper. This is something not to be missed while in Izmir, because it's almost impossible to find it anywhere else in the country. It's sold at numerous stalls in the streets. Best to be eaten earlier in the day to have it warm as they find their way out of bakeries in the morning. Two of them is more than enough to appease you hunger.</item>
+    <item>Midye Dolma, stuffed mussels with aromatic rice, herbs and spices, is a delicious street food we love as a nation in Turkey. They are well worth the effort to make at home; these scrumptious stuffed mussels, midye dolma would make an impressive starter or if you really like them, it may be your main course!</item>
+    <item>Freshly boiled or grilled corn on the cob, often sprinkled with salt or spices. This popular snack is almost exclusively sold during the summer months by the real street sellers with their push-cars.</item>
+    <item>Delicious dessert filled with nutella, covered by a very thin layer of dough. Its name "bomba" means bomb in English.</item>
+    </string-array>
+
+    <!-- names for the hotels -->
+    <string-array name="name_of_hotels">
+        <item>Key Hotel</item>
+        <item>Swissotel Grand Efes Izmir</item>
+        <item>Mövenpick Hotel Izmir</item>
+        <item>Wyndham Grand Izmir Özdilek</item>
+        <item>Hilton Izmir</item>
+        <item>DoubleTree by Hilton Izmir, Alsancak</item>
+    </string-array>
+
+    <!-- addresses for the hotels -->
+    <string-array name="address_of_hotels">
+        <item>Mimar Kemalettin Caddesi No:1, Konak, Izmir, Turkey</item>
+        <item>Gaziosmanpasa Bulvari No: 1, Alsancak, Izmir, Turkey</item>
+        <item>Kültür Mahallesi, Cumhuriyet Blv. 138, Izmir, Turkey</item>
+        <item>Inciraltı Sokak No:67, Balçova, Izmir, Turkey</item>
+        <item>Gazi Osman Paşa Bulvarı No.7, Izmir, Turkey</item>
+        <item>Ismet Kaptan Mahallesi 1373 Sk. N5 Konak, Izmir, Turkey</item>
+    </string-array>
+
+    <!-- descriptions for the hotels -->
+    <string-array name="description_of_hotels">
+        <item>This 34-room hotel, right on Izmir’s coastline, has an amazing view of the city and sea (especially during sunsets). It is luxury-driven with modern amenities, airport transfers, meeting and event rooms, as well as a restaurant and bar. Key Hotel’s 3.28 sq m (i85m²) Grand Suite has a terrace that overlooks the sparkling Gulf of Izmir.</item>
+        <item>Overlooking Izmir’s famous Kordon promenade ,right by the Aegean Sea, Swissotel is a true luxury hotel situated within 4.6 sq mi (12,000 m²) of landscaped gardens. The 402 rooms have all the technology and modern amenities expected of a luxury hotel, and there are three restaurants, two bars, and a spa and sport facility on the rooftop as well as. From the breakfast buffet to an evening hamam treatment, there’s plenty to keep visitors happy inside the hotel before even beginning to explore the city.</item>
+        <item>With 185 rooms, a modern bar with a great sea and city view, the sophisticated Margaux Restaurant and Swiss Cake patisserie, and a convenient location in the city center, the five-star Mövenpick Hotel Izmir offers unbeatable service at great value. Green Globe-certified and voted Turkey’s Leading Business Hotel two years in a row by World Travel Awards, there’s nothing missing in terms of professional five-star service.</item>
+        <item>Floor-to-ceiling windows that allow for panoramic views of Izmir’s coast are what make Wyndham special. Just some of the hotel’s perks are its restaurants (serving both Turkish and international dishes), night club, pool bar, and spa with indoor and outdoor pools and various relaxing treatments.</item>
+        <item>Close to Old Town in the city center, Hilton Izmir’s rooms have beautiful views of the mountains, city, or bay from its many guest rooms. Apart from the fitness facility and heated pool, the hotel also has an award-winning fine dining restaurant on its 31st floor, as well as a bar and two more casual dining restaurants.</item>
+        <item>With a location in the city center, a mere 20-minute drive from the airport, DoubleTree is close to all the shops and restaurants in the busy Alsancak neighborhood as well as the famous Clock Tower and Kemeraltı Bazaar. the hotel’s rooftop swimming pool, luxurious spa facilities, and Smyrna Restaurant and Rooftop Bar and Restaurant with beautiful views are only some of its highlights.</item>
+    </string-array>
+
+    <!-- phone numbers for the cinemas -->
+    <string-array name="phone_number_of_hotels">
+        <item>+90(232)2771155</item>
+        <item>+90(232)5022210</item>
+        <item>+90(232)3737320</item>
+        <item>+90(232)2738440</item>
+        <item>+90(232)3865888</item>
+        <item>+90(232)2747666</item>
+    </string-array>
+
+    <!-- web addresses for the hotels -->
+    <string-array name="web_address_of_hotels">
+        <item>www.keyhotel.com</item>
+        <item>www.swissotel.com.tr/hotels/izmir/</item>
+        <item>www.movenpick.com/tr/europe/turkey/izmir/hotel-izmir/overview/</item>
+        <item>www.wyndhamgrandizmir.com/</item>
+        <item>www.hilton.com.tr/oteller/turkiye/izmir/hilton-izmir/</item>
+        <item>www.hilton.com.tr/oteller/turkiye/izmir/doubletree-by-hilton-hotel-izmir-alsancak/</item>
+    </string-array>
+
+    <!-- names for the cinemas -->
+    <string-array name="name_of_cinemas">
+        <item>Ege Park Balçova Cinens</item>
+        <item>Cinema Pink</item>
+        <item>Site Cinemas Park Bornova AVM</item>
+        <item>Cinemaximum Optimum İzmir</item>
+        <item>İzmir Deniz Cinecity Kipa</item>
+        <item>Gaziemir Hollywood Kipa AVM</item>
+    </string-array>
+
+    <!-- addresses for the cinemas -->
+    <string-array name="address_of_cinemas">
+        <item>Mithatpaşa Cad. No: 44 Balçova/Izmir</item>
+        <item>Adalet Mah. Manas Bulvarı No: 47 Bayraklı/Izmir</item>
+        <item>Ankara Cad. No:192/29 Bornova/Izmir</item>
+        <item>Beyazevler Mah. Akçay Cad. No: 101 Gaziemir/Izmir</item>
+        <item>Yeni Havaalanı Yolu No:40 Çiğli/Izmir</item>
+        <item>Akçay Cad.No:253 Gaziemir/Izmir</item>
+    </string-array>
+
+    <!-- descriptions for the cinemas -->
+    <string-array name="description_of_cinemas">
+        <item>If you are around Balçova, this cinema is a good choice</item>
+        <item>Like watching a movie at your home, with great sound system and a whole-wall TV</item>
+        <item>When you get bored of shopping at Park Bornova, this cinema is a good alternative to waiting girls outside :D</item>
+        <item>This is the best cinema in town!</item>
+        <item>There is no so much alternatives around Çiğli district, so this is good</item>
+        <item>A normal cinema with very affordable prices especially for students</item>
+    </string-array>
+
+    <!-- phone numbers for the cinemas -->
+    <string-array name="phone_number_of_cinemas">
+        <item>+90(232)2771155</item>
+        <item>+90(232)5022210</item>
+        <item>+90(232)3737320</item>
+        <item>+90(232)2738440</item>
+        <item>+90(232)3865888</item>
+        <item>+90(232)2747666</item>
+    </string-array>
+
+    <!-- web addresses for the cinemas -->
+    <string-array name="web_address_of_cinemas">
+        <item>www.cinens.com/place/CINENS_IZMIR_EGEPARK</item>
+        <item>www.cinemapink.com/tr/sinema-detay/izmir-folkart-towers/869.html</item>
+        <item>www.sitesinemalari.com/sinemalarimiz/park-bornova-site-sinemalari-34</item>
+        <item>www.cinemaximum.com.tr/optimum-izmir-sinema-salonu</item>
+        <item>www.cinecity.com.tr/subeler/kipa</item>
+        <item>www.hollywoodsinemalari.com/sinema_detay.php?Id=56</item>
+    </string-array>
+</resources>
